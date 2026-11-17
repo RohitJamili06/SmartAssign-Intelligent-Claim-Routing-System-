@@ -1,0 +1,7 @@
+.env
+backend/target/
+**/__pycache__/
+node_modules/
+.idea/
+*.iml
+.DS_Store
